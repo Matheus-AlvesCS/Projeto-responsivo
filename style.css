@@ -60,11 +60,11 @@ img {
 }
 
 .link-header:hover {
-  opacity: 0.8;
+  opacity: .8;
 }
 
 .link-header:active {
-  opacity: 0.6;
+  opacity: .6;
 }
 
 .main-content {
