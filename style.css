@@ -34,6 +34,14 @@ header {
   text-decoration: none;
 }
 
+.header-link:hover {
+  opacity: 0.8;
+}
+
+.header-link:active {
+  opacity: 0.6;
+}
+
 img {
   max-width: 100%;
   position: relative;
@@ -73,4 +81,12 @@ h1 {
   line-height: 35px;
   padding: 10px 40px;
   cursor: pointer;
+}
+
+.main-button:hover {
+  opacity: 0.8;
+}
+
+.main-button:active {
+  opacity: 0.6;
 }
