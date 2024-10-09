@@ -18,7 +18,7 @@ main {
 .container-right {
   background-color: rgba(93, 93, 125, 0.3);
   height: 100%;
-  width: 40%;
+  width: 30%;
 }
 
 header {
@@ -35,19 +35,20 @@ header {
 }
 
 img {
-  display: block;
   max-width: 100%;
   position: relative;
-  top: 125px;
-  right: 115px;
+  top: 15%;
+  right: 30%;
 }
 
 .container-left {
-  width: 60%;
+  width: 70%;
 }
 
 .content-box {
   max-width: 540px;
+  margin-top: 20%;
+  margin-left: 8%;
 }
 
 h1 {
