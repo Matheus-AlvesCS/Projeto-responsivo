@@ -6,4 +6,9 @@
 <h2>Tecnologias utilizadas</h2>
 <p><b>- HTML</b></p>
 <p><b>- CSS</b></p>
-
+<h2 align="center">Imagens do Projeto</h2>
+<p>
+<img src="https://github.com/Matheus-AlvesCS/Projeto-responsivo/blob/main/assets/Desktop.png?raw=true" width="600" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Matheus-AlvesCS/Projeto-responsivo/blob/main/assets/Mobile.png?raw=true" width="200" height="400"/>
+</p>
